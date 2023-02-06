@@ -10284,6 +10284,30 @@
 		"type": "CONTEXT",
 		"multilangLabel": {}
 	},
+		{
+		"uri": "http://purl.org/dc/terms/ilias_Link",
+		"comment": "",
+		"label": "Ilias_Link",
+		"icon": "",
+		"name": "ilias_Link",
+		"referenceType": "String",
+		"container": "",
+		"weight": "2",
+		"type": "CONTEXT",
+		"multilangLabel": {}
+	},
+		{
+		"uri": "http://purl.org/dc/terms/moodle_Link",
+		"comment": "",
+		"label": "Moodle_Link",
+		"icon": "",
+		"name": "moodle_Link",
+		"referenceType": "String",
+		"container": "",
+		"weight": "2",
+		"type": "CONTEXT",
+		"multilangLabel": {}
+	},
 	{
 		"uri": "http://purl.org/library/BrailleBook",
 		"label": "Braille",
