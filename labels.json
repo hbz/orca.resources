@@ -25997,6 +25997,18 @@
 		"type": "STORE",
 		"multilangLabel": {}
 	},
+	
+	{
+		"uri": "info:regal/zettel/iliasMoodleHeader",
+		"comment": "",
+		"label": "Link zum LMS",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {}
+	},
 	{
 		"uri": "info:regal/zettel/typeHeader",
 		"label": "Publikationstyp",
