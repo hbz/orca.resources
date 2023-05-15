@@ -26070,8 +26070,8 @@
 		"name": "oerAgent",
 		"container": "@list",
 		"weight": "5",
-		"referenceType": "@id",
-		"type": "STORE",
+		"referenceType": "String",
+		"type": "CONTEXT",
 		"multilangLabel": {}
 	}
 	]
