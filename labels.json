@@ -7309,11 +7309,11 @@
 		"multilangLabel": {}
 	},
 	{
-		"uri": "http://hbz-nrw.de/regal#authorAffiliationIndex",
+		"uri": "http://hbz-nrw.de/regal#creatorAffiliationIndex",
 		"comment": "",
 		"label": "AdressIndex",
 		"icon": "",
-		"name": "authorAffiliationIndex",
+		"name": "creatorAffiliationIndex",
 		"referenceType": "String",
 		"container": "",
 		"weight": "9",
@@ -24806,11 +24806,11 @@
 		"multilangLabel": {}
 	},
 	{
-		"uri": "http://hbz-nrw.de/regal#authorAffiliation",
+		"uri": "http://hbz-nrw.de/regal#creatorAffiliation",
 		"comment": "",
-		"label": "Hochschule",
+		"label": "Hochschule (Autoren)",
 		"icon": "",
-		"name": "authorAffiliation",
+		"name": "creatorAffiliation",
 		"referenceType": "String",
 		"container": "@list",
 		"weight": "5",
@@ -24820,7 +24820,7 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#contributorAffiliation",
 		"comment": "",
-		"label": "Hochschule",
+		"label": "Hochschule (Beitragende)",
 		"icon": "",
 		"name": "contributorAffiliation",
 		"referenceType": "String",
@@ -24855,11 +24855,11 @@
 		"multilangLabel": {}
 	},
 	{
-		"uri": "http://hbz-nrw.de/regal#authorAcademicDegree",
+		"uri": "http://hbz-nrw.de/regal#creatorAcademicDegree",
 		"comment": "",
-		"label": "Akademischer Grad",
+		"label": "Akademischer Grad (Autoren)",
 		"icon": "",
-		"name": "authorAcademicDegree",
+		"name": "creatorAcademicDegree",
 		"referenceType": "String",
 		"container": "@list",
 		"weight": "5",
@@ -24867,11 +24867,11 @@
 		"multilangLabel": {}
 	},
 	{
-		"uri": "http://hbz-nrw.de/regal#authorAcademicDegreeIndex",
+		"uri": "http://hbz-nrw.de/regal#creatorAcademicDegreeIndex",
 		"comment": "",
-		"label": "authorAcademicDegreeIndex",
+		"label": "creatorAcademicDegreeIndex",
 		"icon": "",
-		"name": "authorAcademicDegreeIndex",
+		"name": "creatorAcademicDegreeIndex",
 		"referenceType": "String",
 		"container": "@list",
 		"weight": "5",
@@ -24881,7 +24881,7 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#contributorAcademicDegree",
 		"comment": "",
-		"label": "Akademischer Grad",
+		"label": "Akademischer Grad (Beitragende)",
 		"icon": "",
 		"name": "contributorAcademicDegree",
 		"referenceType": "String",
